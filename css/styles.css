@@ -620,7 +620,38 @@ input[type='checkbox'] {
 /*******************/
 .split .area-1 {
 	height: 430px;
-	background: linear-gradient(to bottom right, rgba(25, 26, 29, 0.5), rgba(25, 26, 29, 0.5)), url('../images/details-background.jpg') center center no-repeat;
+	background: linear-gradient(to bottom right, rgba(25, 26, 29, 0.5), rgba(25, 26, 29, 0.5)), url('../images/logo1.png') center center no-repeat;
+	background-size: cover;
+}
+
+.split .area-2 {
+	padding-top: 7.75rem;
+	padding-bottom: 7.75rem;
+}
+
+.split p {
+	margin-bottom: 2.25rem;
+}
+
+.split .icons-container {
+	margin-top: 3rem;
+}
+
+.split .icons-container img {
+	width: 50px;
+	margin-right: 0.625rem;
+	margin-bottom: 0.75rem;
+}
+
+
+
+
+
+
+
+.split .area-3 {
+	height: 430px;
+	background: linear-gradient(to bottom right, rgba(25, 26, 29, 0.5), rgba(25, 26, 29, 0.5)), url('../images/logo2.jpg') center center no-repeat;
 	background-size: cover;
 }
 
